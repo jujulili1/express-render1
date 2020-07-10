@@ -1,0 +1,18 @@
+{
+  "name": "express-render-html",
+  "version": "1.0.0",
+  "description": "ini adalah aplikasi nodejs yang digunakan untuk merender file html",
+  "main": "index.js",
+  "author": "triyulianto",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index"
+  }
+}
